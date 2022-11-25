@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta title="Main List - GD Mobile">
+    <title>Main List - GD Mobile</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="http://ly.lygo.com/ly/tpSite/images/favicon.ico" rel="icon" type="image/ico" />
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C700&amp;display=swap" rel="stylesheet" nonce="">
+    <link href="https://fonts.googleapis.com/css?family=Source%20Code%20Pro%3Ai%2Cbi%2C700%2C400&amp;display=swap" rel="stylesheet" nonce="">
+  </head>
+  <body>
+    <div class="oka okay" alt id="item" style="transform: translateY(0px)"></div>
+    <div class="head">
+      <h2 class="headery">Level Packs</h2>
+    </div>
+
+    <div class="levels">
+      <div style="background-color: rgba(110,183,216,1); height:10px; max-height:10px;"></div>
+
+        <br>
+
+        <div class="infos" style="font-style: oblique;">
+          <div style="padding: 8px">
+          <p class="mes" style="font-weight: bold;">How it Works:</p>
+          <ul class="statlist">
+            <li><p class="mes lipad">Players are divided into classes, the more points the better</p></li>
+            <li><p class="mes lipad">Your points will be calculated with the formula: y = (6000 / x + 25) - 40 where x is the placement of the demon</p></li>
+          </ul>
+          <p class="mes" style="font-weight: bold;">Classes:</p>
+          <ul class="statlist">
+            <li><p class="mes lipad">Overlords: 1000+ points to qualify</p></li>
+            <li><p class="mes lipad">Class S: 600+ points to qualify</p></li>
+            <li><p class="mes lipad">Class A: 300+ points to qualify</p></li>
+            <li><p class="mes lipad">Class B: 150+ points to qualify</p></li>
+            <li><p class="mes lipad">Class C: 50+ points to qualify</p></li>
+            <li><p class="mes lipad">Class D: Any points to be added</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+        <div class="infos">	<div style="padding: 8px">
+        	<p class="mes" style="font-weight: bold; ">Overlords: </p>
+        	<ul class="statlist">
+        		<li><p class="mes lipad">Biprex<span></span> - 2593.<span>52</span></p></li>
+        		<li><p class="mes lipad">Noxop<span></span> - 2050.<span>10</span></p></li>
+        	</ul>
+        	</div>
+        </div>
+
+        <br>
+
+        <div class="infos">	<div style="padding: 8px">
+        	<p class="mes" style="font-weight: bold; ">Class S: </p>
+        	<ul class="statlist">
+        		<li><p class="mes lipad">Coopersuper<span></span> - 920.<span>48</span></p></li>
+        		<li><p class="mes lipad">Xyghost<span></span> - 891.<span>97</span></p></li>
+        		<li><p class="mes lipad">Juniorr<span></span> - 883.<span>99</span></p></li>
+        		<li><p class="mes lipad">Hilo<span></span> - 790.<span>32</span></p></li>
+        		<li><p class="mes lipad">DashY<span></span> - 785.<span>30</span></p></li>
+        		<li><p class="mes lipad">Flavyola64<span></span> - 739.<span>60</span></p></li>
+        	</ul>
+        	</div>
+        </div>
+
+        <br>
+
+        <div class="infos">	<div style="padding: 8px">
+        	<p class="mes" style="font-weight: bold; ">Class A: </p>
+        	<ul class="statlist">
+        		<li><p class="mes lipad">Chubs Dubs<span></span> - 592.<span>60</span></p></li>
+        		<li><p class="mes lipad">Surpl3x<span></span> - 584.<span>54</span></p></li>
+        		<li><p class="mes lipad">Storm957<span></span> - 543.<span>36</span></p></li>
+        		<li><p class="mes lipad">Bigthunder556<span></span> - 433.<span>68</span></p></li>
+        		<li><p class="mes lipad">Mike139115<span></span> - 404.<span>38</span></p></li>
+        		<li><p class="mes lipad">BiPolarBearr<span></span> - 368.<span>11</span></p></li>
+        		<li><p class="mes lipad">venfy<span></span> - 326.<span>37</span></p></li>
+        		<li><p class="mes lipad">mephiles175<span></span> - 316.<span>97</span></p></li>
+        		<li><p class="mes lipad">Bradenbowl<span></span> - 312.<span>52</span></p></li>
+        	</ul>
+        	</div>
+        </div>
+
+        <br>
+
+        <div class="infos">	<div style="padding: 8px">
+        	<p class="mes" style="font-weight: bold; ">Class B: </p>
+        	<ul class="statlist">
+        		<li><p class="mes lipad">idiot 4<span></span> - 272.<span>70</span></p></li>
+        		<li><p class="mes lipad">Nontypical<span></span> - 258.<span>93</span></p></li>
+        		<li><p class="mes lipad">TheRunawayGang<span></span> - 256.<span>80</span></p></li>
+        		<li><p class="mes lipad">LegendDinamix<span></span> - 255.<span>87</span></p></li>
+        		<li><p class="mes lipad">Demonbeater17<span></span> - 241.<span>50</span></p></li>
+        		<li><p class="mes lipad">WhitePythor<span></span> - 233.<span>72</span></p></li>
+        		<li><p class="mes lipad">Kkbleeblob<span></span> - 227.<span>77</span></p></li>
+        		<li><p class="mes lipad">El Ameno<span></span> - 225.<span>29</span></p></li>
+        		<li><p class="mes lipad">DreamTide<span></span> - 222.<span>84</span></p></li>
+        		<li><p class="mes lipad">SeaWolfMikes<span></span> - 210.<span>05</span></p></li>
+        		<li><p class="mes lipad">WhiteEmerald<span></span> - 205.<span>28</span></p></li>
+        		<li><p class="mes lipad">SoulSilver Jr.<span></span> - 194.<span>26</span></p></li>
+        		<li><p class="mes lipad">zentel<span></span> - 193.<span>22</span></p></li>
+        		<li><p class="mes lipad">Cedric22<span></span> - 188.<span>18</span></p></li>
+        		<li><p class="mes lipad">SarTiZ<span></span> - 185.<span>13</span></p></li>
+        		<li><p class="mes lipad">Coheton<span></span> - 180.<span>80</span></p></li>
+        		<li><p class="mes lipad">Kucouski<span></span> - 175.<span>42</span></p></li>
+        		<li><p class="mes lipad">Bribo<span></span> - 163.<span>81</span></p></li>
+        		<li><p class="mes lipad">Bejako<span></span> - 161.<span>21</span></p></li>
+        	</ul>
+        	</div>
+        </div>
+
+        <br>
+
+        <div class="infos">	<div style="padding: 8px">
+        	<p class="mes" style="font-weight: bold; ">Class C: </p>
+        	<ul class="statlist">
+        		<li><p class="mes lipad">Hydrus73<span></span> - 148.<span>22</span></p></li>
+        		<li><p class="mes lipad">pigchefer<span></span> - 147.<span>69</span></p></li>
+        		<li><p class="mes lipad">Sadius<span></span> - 144.<span>55</span></p></li>
+        		<li><p class="mes lipad">Subperfect<span></span> - 135.<span>94</span></p></li>
+        		<li><p class="mes lipad">zyphyr77<span></span> - 132.<span>43</span></p></li>
+        		<li><p class="mes lipad">Zoink Doink<span></span> - 126.<span>87</span></p></li>
+        		<li><p class="mes lipad">Rusty<span></span> - 126.<span>03</span></p></li>
+        		<li><p class="mes lipad">Deneb<span></span> - 126.<span>03</span></p></li>
+        		<li><p class="mes lipad">NihiliusR<span></span> - 123.<span>46</span></p></li>
+        		<li><p class="mes lipad">SubZeroV<span></span> - 123.<span>22</span></p></li>
+        		<li><p class="mes lipad">Chosbar<span></span> - 118.<span>96</span></p></li>
+        		<li><p class="mes lipad">ExoLiter<span></span> - 112.<span>86</span></p></li>
+        		<li><p class="mes lipad">??? (hardysnail)<span></span> - 112.<span>86</span></p></li>
+        		<li><p class="mes lipad">Jastro<span></span> - 106.<span>54</span></p></li>
+        		<li><p class="mes lipad">Nez0x<span></span> - 103.<span>06</span></p></li>
+        		<li><p class="mes lipad">Seadawg<span></span> - 103.<span>06</span></p></li>
+        		<li><p class="mes lipad">Daziryx<span></span> - 103.<span>06</span></p></li>
+        		<li><p class="mes lipad">Thonyell<span></span> - 102.<span>99</span></p></li>
+        		<li><p class="mes lipad">Zeth<span></span> - 102.<span>30</span></p></li>
+        		<li><p class="mes lipad">Yogurt<span></span> - 102.<span>11</span></p></li>
+        		<li><p class="mes lipad">Tetrys<span></span> - 99.<span>83</span></p></li>
+        		<li><p class="mes lipad">MaksTeR<span></span> - 99.<span>83</span></p></li>
+        		<li><p class="mes lipad">Random Idiot<span></span> - 84.<span>78</span></p></li>
+        		<li><p class="mes lipad">vAurora<span></span> - 82.<span>75</span></p></li>
+        		<li><p class="mes lipad">Not Applicable 11<span></span> - 76.<span>25</span></p></li>
+        		<li><p class="mes lipad">Lemiz<span></span> - 73.<span>50</span></p></li>
+        		<li><p class="mes lipad">TheRealYeeter<span></span> - 64.<span>66</span></p></li>
+        		<li><p class="mes lipad">Batle<span></span> - 61.<span>86</span></p></li>
+        		<li><p class="mes lipad">Coffee081<span></span> - 61.<span>38</span></p></li>
+        		<li><p class="mes lipad">Gochujang<span></span> - 58.<span>52</span></p></li>
+        		<li><p class="mes lipad">T3POT [Gmr]<span></span> - 57.<span>07</span></p></li>
+        		<li><p class="mes lipad">Mr.Budgie<span></span> - 56.<span>08</span></p></li>
+        		<li><p class="mes lipad">hpsk<span></span> - 54.<span>05</span></p></li>
+        		<li><p class="mes lipad">notlsa<span></span> - 54.<span>05</span></p></li>
+        		<li><p class="mes lipad">Gw segun<span></span> - 52.<span>91</span></p></li>
+        	</ul>
+        	</div>
+        </div>
+
+        <br>
+
+        <div class="infos">	<div style="padding: 8px">
+        	<p class="mes" style="font-weight: bold; ">Class D: </p>
+        	<ul class="statlist">
+        		<li><p class="mes lipad">cobrablitz<span></span> - 47.<span>40</span></p></li>
+        		<li><p class="mes lipad">SwordBx<span></span> - 46.<span>04</span></p></li>
+        		<li><p class="mes lipad">Gherkin<span></span> - 45.<span>19</span></p></li>
+        		<li><p class="mes lipad">LEoNvQ<span></span> - 43.<span>63</span></p></li>
+        		<li><p class="mes lipad">Skylarky<span></span> - 43.<span>63</span></p></li>
+        		<li><p class="mes lipad">Bonezizdum<span></span> - 43.<span>63</span></p></li>
+        		<li><p class="mes lipad">Lucky3Jumps<span></span> - 43.<span>63</span></p></li>
+        		<li><p class="mes lipad">DanoXQuick71<span></span> - 43.<span>63</span></p></li>
+        		<li><p class="mes lipad">MiniWheatDuo<span></span> - 41.<span>61</span></p></li>
+        		<li><p class="mes lipad">Demolishers21<span></span> - 41.<span>38</span></p></li>
+        		<li><p class="mes lipad">TristonGD<span></span> - 41.<span>38</span></p></li>
+        		<li><p class="mes lipad">TheLox7<span></span> - 41.<span>38</span></p></li>
+        		<li><p class="mes lipad">Cyth<span></span> - 35.<span>29</span></p></li>
+        		<li><p class="mes lipad">Sydno<span></span> - 35.<span>29</span></p></li>
+        		<li><p class="mes lipad">GeoMiX<span></span> - 34.<span>36</span></p></li>
+        		<li><p class="mes lipad">LuckyCaster24<span></span> - 33.<span>47</span></p></li>
+        		<li><p class="mes lipad">Liquid<span></span> - 32.<span>47</span></p></li>
+        		<li><p class="mes lipad">AliixGD<span></span> - 29.<span>57</span></p></li>
+        		<li><p class="mes lipad">Euricio<span></span> - 29.<span>36</span></p></li>
+        		<li><p class="mes lipad">dp16<span></span> - 29.<span>36</span></p></li>
+        		<li><p class="mes lipad">AdrienXL<span></span> - 29.<span>36</span></p></li>
+        		<li><p class="mes lipad">josephone<span></span> - 27.<span>82</span></p></li>
+        		<li><p class="mes lipad">P8geons<span></span> - 26.<span>33</span></p></li>
+        		<li><p class="mes lipad">Swag Martin<span></span> - 25.<span>77</span></p></li>
+        		<li><p class="mes lipad">Nintenfox<span></span> - 24.<span>22</span></p></li>
+        		<li><p class="mes lipad">Mammyth<span></span> - 22.<span>90</span></p></li>
+        		<li><p class="mes lipad">FinJac14<span></span> - 22.<span>90</span></p></li>
+        		<li><p class="mes lipad">Anicon<span></span> - 22.<span>90</span></p></li>
+        	</ul>
+        	</div>
+        </div>
+        <br>
+      </div>
+    </div>
+
+    <div>
+      <ul class="nav" id="narv">
+        <li class="r ranc"><a href="https://docs.google.com/forms/d/e/1FAIpQLScT8aGlWyRRnn34P9gpvyrECCl-Jn2zaiRO5xsUWzD1qS_98A/viewform">Submit</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/updatelog">Update Log</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/levelpacks">Level Packs</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/topplayers">Top Players</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/bottom50">Bottom 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/top50">Top 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/about">About</a></li>
+        <li class="titlebox ranc">GD Mobile Lists</li>
+      </ul>
+    </div>
+
+    <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+    }
+    </script>
+    <script>
+    // Source credit: http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+        var gear = document.getElementById("item");
+        window.addEventListener("scroll", function() {
+          gear.style.transform = "translateY("+window.pageYOffset/-1.5+"px)";
+        });
+    </script>
+  </body>
+</html>

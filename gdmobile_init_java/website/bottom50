@@ -1,0 +1,1562 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta title="Main List - GD Mobile">
+    <title>Main List - GD Mobile</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="http://ly.lygo.com/ly/tpSite/images/favicon.ico" rel="icon" type="image/ico" />
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C700&amp;display=swap" rel="stylesheet" nonce="">
+    <link href="https://fonts.googleapis.com/css?family=Roboto%3Ai%2Cbi%2C700%2C400&amp;display=swap" rel="stylesheet" nonce="rjOUVAFJm9t9RkKXaNEmvQ">
+    <link href="https://fonts.googleapis.com/css?family=Source%20Code%20Pro%3Ai%2Cbi%2C700%2C400&amp;display=swap" rel="stylesheet" nonce="">
+  </head>
+  <body>
+    <div class="oka okay" alt id="item" style="transform: translateY(0px)"></div>
+    <div class="head">
+      <h1 class="headery">Bottom 50 Demons Completed</h1>
+    </div>
+
+    <div class="levels">
+      <div style="background-color: rgba(110,183,216,1); height:10px; max-height:10px;"></div>
+      <!--<p class="para" style="font-size:100px;">h</p>-->
+      <br>
+
+        <div class="infos" style="font-style: oblique;">
+          <div style="padding: 8px">
+          <p class="mes" style="font-weight: bold;">How it Works:</p>
+          <ul class="statlist">
+            <li><p class="mes lipad">Remember: this is a mobile-based list.  These levels may not be in the order that computer players want them to be in.</p></li>
+            <li><p class="mes lipad">The levels are organized from hardest to easiest, hardest at the top, easiest at the bottom.</p></li>
+            <li><p class="mes lipad">The records are based by who beat the level first, most recent victors being at the bottom.</p></li>
+            <li><p class="mes lipad">Any record above 60hz will not be recorded on the list, unless the level is already on the list (Adding >60hz records for new levels won't work very well because of our team being made of only 60hz mobile players)</p></li>
+            <li><p class="mes lipad">LDM (Low Detail Mode) versions of levels are accepted, as long as it does not affect the difficulty of the level.  Not all devices can handle the more laggy ones.</p></li>
+            <li><p class="mes lipad">Former mobile players will still be on the list, but only their mobile records will count.</p></li>
+            <li><p class="mes lipad">Illegitimate records will be removed, along with any other records that person holds. Bans will be either temporary or permanent (decided based on the confession of the player and how the hack was done).</p></li>
+            <li><p class="mes lipad">As of 12/15/17 only levels that have been demons at one point or another will be added.</p></li>
+            <li><p class="mes lipad">Using "force smooth fix" or any other method of slowing down your device won't get your record on the list.</p></li>
+            <li><p class="mes lipad">Although it is technically mobile, playing mobile with a mouse will not get your record on the list because mice have different delays.</p></li>
+            <li><p class="mes lipad">A level will be placed at most 2 months after its completion if an opinion is not decided on in that time, so levels aren't left out of the list for significant periods of time.</p></li>
+            <li><p class="mes lipad">For an updated level to be added, the update must stay true to the original. The general gameplay of the level should remain the same, excluding buffs, nerfs, and bugfixes (e.g. Furious Flames, Killbot, Extinction). Updates that do not resemble the original level will not be added to the list (e.g. Zodiac being hack-updated to satcherzbop).</p></li>
+            <li><p class="mes lipad">For a level update to be added, it must also be significantly harder than the most recent version, by at least 2 or more placement spots. </p></li>
+            <li><p class="mes lipad" style="margin-bottom: 0;">Levels that are already placed but get a nerfdate will get moved, instead of the newer update placing alongside the older version already on the list. A significant buffdate is the only reason as to why an update of an already existing level on the list can be placed.</p></li>
+          </ul>
+          </div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			51. "Aftermath" by Trollfacedash & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~40.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Rusty</strong> - <a class='mes lipad' href='https://youtu.be/6CNaCYEhJkE'>https://youtu.be/6CNaCYEhJkE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/DPBeqZsCsb8'>https://youtu.be/DPBeqZsCsb8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='youtu.be/XMOxzrzN4Sc'>youtu.be/XMOxzrzN4Sc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/Ej1T-rR-4qY'>https://youtu.be/Ej1T-rR-4qY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/H8SWsGHG8ho'>https://youtu.be/H8SWsGHG8ho</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Surpl3x</strong> - <a class='mes lipad' href='https://youtu.be/N5NcuNqAnNY'>https://youtu.be/N5NcuNqAnNY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>ChubsDubs</strong> - <a class='mes lipad' href='https://youtu.be/A_kgddAw3sg'>https://youtu.be/A_kgddAw3sg</a>
+        				</p></li>
+        			<li><p class='mes lipad'>idiot 4 - <a class='mes lipad' href='https://youtu.be/65MuqDxj22M'>https://youtu.be/65MuqDxj22M</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/Qjs0eoCuUSs'>https://youtu.be/Qjs0eoCuUSs</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Noxop - <a class='mes lipad' href='https://youtu.be/L0CriKFPnxU'>https://youtu.be/L0CriKFPnxU</a>
+        				<span>   (144hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Biprex</strong> - <a class='mes lipad' href='https://youtu.be/3z88gIKcBxw'>https://youtu.be/3z88gIKcBxw</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Euricio - <a class='mes lipad' href='https://youtu.be/uj5cuFSOA1M'>https://youtu.be/uj5cuFSOA1M</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'>Juniorr - <a class='mes lipad' href='https://youtu.be/tyAbeqovkIY'>https://youtu.be/tyAbeqovkIY</a>
+        				<span>   (90hz)</span></p></li>
+        			<li><p class='mes lipad'>El Ameno - <a class='mes lipad' href='https://youtu.be/jmtkLeZcp9E'>https://youtu.be/jmtkLeZcp9E</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Cedric22</strong> - <a class='mes lipad' href='https://youtu.be/-tDtqyg0twI'>https://youtu.be/-tDtqyg0twI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Subperfect</strong> - <a class='mes lipad' href='https://youtu.be/-KJdeOYe0gI'>https://youtu.be/-KJdeOYe0gI</a>
+        				</p></li>
+        			<li><p class='mes lipad'>zyphyr77 - <a class='mes lipad' href='https://youtu.be/bw5IJ1uvy4M'>https://youtu.be/bw5IJ1uvy4M</a>
+        				<span>   (144hz)</span></p></li>
+        			<li><p class='mes lipad'>dp16 - <a class='mes lipad' href='https://youtu.be/ltWMA9tuGrY'>https://youtu.be/ltWMA9tuGrY</a>
+        				<span>   (144hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>TheRealYeeter</strong> - <a class='mes lipad' href='https://youtu.be/SrIcgFfLShs'>https://youtu.be/SrIcgFfLShs</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Xyghost - <a class='mes lipad' href='https://youtu.be/o0x-oTFeFbo'>https://youtu.be/o0x-oTFeFbo</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'>Deneb - <a class='mes lipad' href='https://youtu.be/EVGBKYrbxms'>https://youtu.be/EVGBKYrbxms</a>
+        				<span>   (144hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			52. "Lonely Lights" by Elvii & Mixer</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~39.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>MiniWheatDuo</strong> - <a class='mes lipad' href='https://youtu.be/-zexfymJswM'>https://youtu.be/-zexfymJswM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/AiRiuA3C5Dk'>https://youtu.be/AiRiuA3C5Dk</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			53. "Worse Trip" by Loltad</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~38.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Gochujang(120hz)</strong> - <a class='mes lipad' href='https://youtu.be/fQWav_QO4ag'>https://youtu.be/fQWav_QO4ag</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bribo</strong> - <a class='mes lipad' href='https://youtu.be/YXti-v6pgeE'>https://youtu.be/YXti-v6pgeE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>mephiles175</strong> - <a class='mes lipad' href='https://youtu.be/dDbQMHgkqfA'>https://youtu.be/dDbQMHgkqfA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/uZ7vniFIcRE'>https://youtu.be/uZ7vniFIcRE</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			54. "Deflective" by Mojitoz & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~37.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Hydrus73</strong> - <a class='mes lipad' href='https://youtu.be/Pt8uTOiWzVY'>https://youtu.be/Pt8uTOiWzVY</a>
+        				</p></li>
+        			<li><p class='mes lipad'>El Ameno - <a class='mes lipad' href='https://youtu.be/adEnoT81wTM'>https://youtu.be/adEnoT81wTM</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>P8geons</strong> - <a class='mes lipad' href='https://youtu.be/zEg9vB9U9wA'>https://youtu.be/zEg9vB9U9wA</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Kucouski - <a class='mes lipad' href='https://youtu.be/8c1FSqY_LuM'>https://youtu.be/8c1FSqY_LuM</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/3Fut2jUnWp8'>https://youtu.be/3Fut2jUnWp8</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			55. "Ecstasy" by SleyGD</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~36.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'>Noxop - <a class='mes lipad' href='https://youtu.be/Azm7gNzBzeM'>https://youtu.be/Azm7gNzBzeM</a>
+        				<span>   (144hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/tlDCqbffxwM'>https://youtu.be/tlDCqbffxwM</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			56. "EnvY" by DanZmeN</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~35.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/F7PLx_NFot0'>https://youtu.be/F7PLx_NFot0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Nintenfox</strong> - <a class='mes lipad' href='https://youtu.be/CdkohzMQkpA'>https://youtu.be/CdkohzMQkpA</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			57. "Prismatic Haze" by Cirtrax & Gizbro</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~34.8 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Kkbleeblob</strong> - <a class='mes lipad' href='https://youtu.be/xwMWfceM3wI'>https://youtu.be/xwMWfceM3wI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/f48TcQL9r5I'>https://youtu.be/f48TcQL9r5I</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Liquid</strong> - <a class='mes lipad' href='https://youtu.be/kVtZ_PiFD3U'>https://youtu.be/kVtZ_PiFD3U</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/5ns0O7QirbQ'>https://youtu.be/5ns0O7QirbQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'>El Ameno - <a class='mes lipad' href='https://youtu.be/gwoNhvvjLZA'>https://youtu.be/gwoNhvvjLZA</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'>Juniorr - <a class='mes lipad' href='https://youtu.be/9VZWzuH-PQE'>https://youtu.be/9VZWzuH-PQE</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>coheton</strong> - <a class='mes lipad' href='https://youtu.be/zqvar8ox4OE'>https://youtu.be/zqvar8ox4OE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/ZCutsBnwLXg'>https://youtu.be/ZCutsBnwLXg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mammyth</strong> - <a class='mes lipad' href='https://youtu.be/K0M4mW0lkm8'>https://youtu.be/K0M4mW0lkm8</a>
+        				</p></li>
+        			<li><p class='mes lipad'>FinJac14 - <a class='mes lipad' href='https://youtu.be/TR1L3vHwA_A'>https://youtu.be/TR1L3vHwA_A</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/R6MKMUuJLSk'>https://youtu.be/R6MKMUuJLSk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hydrus73</strong> - <a class='mes lipad' href='https://youtu.be/WYhfxs9rHpM'>https://youtu.be/WYhfxs9rHpM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Anicon</strong> - <a class='mes lipad' href='https://youtu.be/sz2sSkykx3k'>https://youtu.be/sz2sSkykx3k</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hasher[GD]</strong> - <a class='mes lipad' href='https://youtu.be/Tegbfp6Tmsc'>https://youtu.be/Tegbfp6Tmsc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>LegendDinamix</strong> - <a class='mes lipad' href='https://youtu.be/1aXJBfJkPw8'>https://youtu.be/1aXJBfJkPw8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/GSimdlMygSI'>https://youtu.be/GSimdlMygSI</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			58. "Mystic" by EndLevel & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~33.9 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/9PhSfrh0oUo'>https://youtu.be/9PhSfrh0oUo</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			59. "The Hell World" by Stormfly & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~33.0 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/zR1aswvf92M'>https://youtu.be/zR1aswvf92M</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			60. "The Hell Origin" by Stormfly & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~32.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/MlNzkU88OdE'>https://youtu.be/MlNzkU88OdE</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			61. "The Hell Zone" by Stormfly & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~31.3 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/Ry0Td_RZXVY'>https://youtu.be/Ry0Td_RZXVY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/Q1d4gXxbDIU'>https://youtu.be/Q1d4gXxbDIU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Sadius</strong> - <a class='mes lipad' href='https://youtu.be/K9P71Bxx-4w'>https://youtu.be/K9P71Bxx-4w</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Nontypical</strong> - <a class='mes lipad' href='https://youtu.be/8rGAEbAjFf8'>https://youtu.be/8rGAEbAjFf8</a>
+        				</p></li>
+        			<li><p class='mes lipad'>NihiliusR - <a class='mes lipad' href='https://youtu.be/c-qKy3ICPF8'>https://youtu.be/c-qKy3ICPF8</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>JordGHubsplazz</strong> - <a class='mes lipad' href='https://youtu.be/4H5_WPUntQE'>https://youtu.be/4H5_WPUntQE</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Xyghost - <a class='mes lipad' href='https://youtu.be/f-BH3usmxqE'>https://youtu.be/f-BH3usmxqE</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Subperfect</strong> - <a class='mes lipad' href='https://youtu.be/upIgzG_K5-U'>https://youtu.be/upIgzG_K5-U</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			62. "Betrayal of Fate" by weoweoteo & xcy7</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~30.4 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>RandomIdiot</strong> - <a class='mes lipad' href='https://youtu.be/hPSjaAxpyaQ'>https://youtu.be/hPSjaAxpyaQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/XtQvZqjh9X0'>https://youtu.be/XtQvZqjh9X0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Noxop</strong> - <a class='mes lipad' href='https://youtu.be/AtG64Z84zpk'>https://youtu.be/AtG64Z84zpk</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			63. "Volume" by Metalface221</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~29.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/RuYyqRLHo8A'>https://youtu.be/RuYyqRLHo8A</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/vlt6M7DTWHs'>https://youtu.be/vlt6M7DTWHs</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			64. "Boogie" by DigitalZero & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~28.8 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>WhiteEmerald</strong> - <a class='mes lipad' href='https://youtu.be/wpWQ5enMJBE'>https://youtu.be/wpWQ5enMJBE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/AiIiUwn1nlk'>https://youtu.be/AiIiUwn1nlk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Nell</strong> - <a class='mes lipad' href='https://youtu.be/BLaDSGX8qvI'>https://youtu.be/BLaDSGX8qvI</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			65. "Night Rider" by LmAnubis & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~28.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Yogurt</strong> - <a class='mes lipad' href='https://youtu.be/cqSjZFdd0pg'>https://youtu.be/cqSjZFdd0pg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/R_JdOdN7Rl8'>https://youtu.be/R_JdOdN7Rl8</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			66. "RASH" by Loltad</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~27.3 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/nuXirfL2QSk'>https://youtu.be/nuXirfL2QSk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>mephiles175</strong> - <a class='mes lipad' href='https://youtu.be/ksizFFs0gTQ'>https://youtu.be/ksizFFs0gTQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Tonyhj</strong> - <a class='mes lipad' href='https://youtu.be/xfmebaT8mP4'>https://youtu.be/xfmebaT8mP4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/ZF4DTXZCnWo'>https://youtu.be/ZF4DTXZCnWo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/BBpZaCdBBjo'>https://youtu.be/BBpZaCdBBjo</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			67. "Endless Dream" by DreamTide</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~26.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/byjnOPX6s2k'>https://youtu.be/byjnOPX6s2k</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Noxop - <a class='mes lipad' href='https://youtu.be/EuWA4N3k3LU'>https://youtu.be/EuWA4N3k3LU</a>
+        				<span>   (144hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/c_ZS9uC137I'>https://youtu.be/c_ZS9uC137I</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>WhiteEmerald</strong> - <a class='mes lipad' href='https://youtu.be/tQDJr_5yTO8'>https://youtu.be/tQDJr_5yTO8</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			68. "Arctic Arena" by Eclipsed & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~25.9 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Not Applicable11</strong> - <a class='mes lipad' href='https://youtu.be/SekOe5pPt5I'>https://youtu.be/SekOe5pPt5I</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/lfVnFDVURGY'>https://youtu.be/lfVnFDVURGY</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			69. "Artificial Ideology" by TeamN2</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~25.2 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Subperfect</strong> - <a class='mes lipad' href='https://youtu.be/6DRAST3A3Gs'>https://youtu.be/6DRAST3A3Gs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/Ul2p8QrTeZY'>https://youtu.be/Ul2p8QrTeZY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coffee081</strong> - <a class='mes lipad' href='https://youtu.be/5h2l8xKe6qk'>https://youtu.be/5h2l8xKe6qk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/Vxby8Nc-oAs'>https://youtu.be/Vxby8Nc-oAs</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			70. "The Hell Factory" by TeamN2</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~24.5 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>SoulSilverJr.</strong> - <a class='mes lipad' href='https://youtu.be/F6UkLlRh28o'>https://youtu.be/F6UkLlRh28o</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Subperfect</strong> - <a class='mes lipad' href='https://youtu.be/qs2Baborddc'>https://youtu.be/qs2Baborddc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SwagMartin</strong> - <a class='mes lipad' href='https://youtu.be/dr2w2YVJHXs'>https://youtu.be/dr2w2YVJHXs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coffee081</strong> - <a class='mes lipad' href='https://youtu.be/JemoIwUmfG8'>https://youtu.be/JemoIwUmfG8</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			71. "Untitled" by iiLuna & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~23.8 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'>Gochujang - <a class='mes lipad' href='https://youtu.be/21ZuoK2-xWY'>https://youtu.be/21ZuoK2-xWY</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/AgXQCCX_HMM'>https://youtu.be/AgXQCCX_HMM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coheton</strong> - <a class='mes lipad' href='https://youtu.be/f5qeHsFtqqs'>https://youtu.be/f5qeHsFtqqs</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			72. "Tempest Tornado" by ColorBolt & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~23.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>WhiteEmerald</strong> - <a class='mes lipad' href='https://youtu.be/MfpPBMKKbbw'>https://youtu.be/MfpPBMKKbbw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hydrus73</strong> - <a class='mes lipad' href='https://youtu.be/cO7lNhOfKg8'>https://youtu.be/cO7lNhOfKg8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/fKYT6_IWhTM'>https://youtu.be/fKYT6_IWhTM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/mLqW1MvlkpI'>https://youtu.be/mLqW1MvlkpI</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			73. "Cadrega Mode" by TCTeam</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~22.5 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/X078Lh74ZJA'>https://youtu.be/X078Lh74ZJA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mr.Budgie</strong> - <a class='mes lipad' href='https://youtu.be/1Yh1LEVlmKY'>https://youtu.be/1Yh1LEVlmKY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='youtu.be/PHFX8f792Bk'>youtu.be/PHFX8f792Bk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='youtu.be/z9DRXcoVMyg'>youtu.be/z9DRXcoVMyg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Chosbar</strong> - <a class='mes lipad' href='https://youtu.be/PEVL99d8SFE'>https://youtu.be/PEVL99d8SFE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>mephiles175</strong> - <a class='mes lipad' href='https://youtu.be/8gyJH6_tQrM'>https://youtu.be/8gyJH6_tQrM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Batle</strong> - <a class='mes lipad' href='https://youtu.be/ZJVWRgznntM'>https://youtu.be/ZJVWRgznntM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/-5NyLfo0NOM'>https://youtu.be/-5NyLfo0NOM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>AsrielXL</strong> - <a class='mes lipad' href='https://youtu.be/8ZvSlFRI0Gk'>https://youtu.be/8ZvSlFRI0Gk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Ashimaru</strong> - <a class='mes lipad' href='https://youtu.be/ANGAgEpkefc'>https://youtu.be/ANGAgEpkefc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Sadius</strong> - <a class='mes lipad' href='https://youtu.be/Pd4OeW5-3F0'>https://youtu.be/Pd4OeW5-3F0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Sepheid</strong> - <a class='mes lipad' href='https://youtu.be/Aot2ibZd4Cs'>https://youtu.be/Aot2ibZd4Cs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bejako</strong> - <a class='mes lipad' href='https://youtu.be/79D0m8wSobA'>https://youtu.be/79D0m8wSobA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>cobrablitz</strong> - <a class='mes lipad' href='https://youtu.be/GWmqhzYjZoE'>https://youtu.be/GWmqhzYjZoE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>???(hardysnail)</strong> - <a class='mes lipad' href='https://youtu.be/PLIHGrv1vHM'>https://youtu.be/PLIHGrv1vHM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>ExoLiter</strong> - <a class='mes lipad' href='https://youtu.be/ZVdS2m90WJ8'>https://youtu.be/ZVdS2m90WJ8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/GyqDknTduuQ'>https://youtu.be/GyqDknTduuQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>aswer</strong> - <a class='mes lipad' href='https://youtu.be/enayhG1EFgo'>https://youtu.be/enayhG1EFgo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>MiniWheatDuo</strong> - <a class='mes lipad' href='https://youtu.be/NJEto1Ga3nU'>https://youtu.be/NJEto1Ga3nU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>kwdash</strong> - <a class='mes lipad' href='https://youtu.be/IQBR0SmxcX4'>https://youtu.be/IQBR0SmxcX4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Thonyell</strong> - <a class='mes lipad' href='https://youtu.be/mSWMQG2lupg'>https://youtu.be/mSWMQG2lupg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>LegendDinamix</strong> - <a class='mes lipad' href='https://youtu.be/VkRnLZJxCqA'>https://youtu.be/VkRnLZJxCqA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>WhiteEmerald</strong> - <a class='mes lipad' href='https://youtu.be/mFwLl-sZ9kI'>https://youtu.be/mFwLl-sZ9kI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/CAEcTqW2a8U'>https://youtu.be/CAEcTqW2a8U</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DitzyDoo4</strong> - <a class='mes lipad' href='https://youtu.be/bJ-nq54PEOI'>https://youtu.be/bJ-nq54PEOI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SuperDog</strong> - <a class='mes lipad' href='https://youtu.be/SSjDkfKnCQY'>https://youtu.be/SSjDkfKnCQY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Runoka</strong> - <a class='mes lipad' href='https://youtu.be/26DAAQ5ZrZY'>https://youtu.be/26DAAQ5ZrZY</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			74. "Artifice" by f3lixsram & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~21.8 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Zeth</strong> - <a class='mes lipad' href='https://youtu.be/cdq18MUm__s'>https://youtu.be/cdq18MUm__s</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>GochuJang</strong> - <a class='mes lipad' href='https://youtu.be/IQUJuYQi_VU'>https://youtu.be/IQUJuYQi_VU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>MineFord</strong> - <a class='mes lipad' href='https://youtu.be/TJBz8VyDjxQ'>https://youtu.be/TJBz8VyDjxQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/c06s7oLIgb0'>https://youtu.be/c06s7oLIgb0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bejako</strong> - <a class='mes lipad' href='https://youtu.be/7QHFSxLViPc'>https://youtu.be/7QHFSxLViPc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>AliixGD</strong> - <a class='mes lipad' href='https://youtu.be/oA5ibMn0aSI'>https://youtu.be/oA5ibMn0aSI</a>
+        				</p></li>
+        			<li><p class='mes lipad'>NooRoongG - <a class='mes lipad' href='https://youtu.be/qm7a23nWSDE'>https://youtu.be/qm7a23nWSDE</a>
+        				<span>   (120hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			75. "Sigma Interface" by Platnuu & TeslaX</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~21.2 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>SwordBx</strong> - <a class='mes lipad' href='https://youtu.be/MR48ftTW5SI'>https://youtu.be/MR48ftTW5SI</a>
+        				</p></li>
+        			<li><p class='mes lipad'>WhitePythor - <a class='mes lipad' href='https://youtu.be/SD-Ptk_Y0t8'>https://youtu.be/SD-Ptk_Y0t8</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'>AliixGD - <a class='mes lipad' href='https://youtu.be/YvWLF_ARwyc'>https://youtu.be/YvWLF_ARwyc</a>
+        				<span>   (90hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			76. "Conical Depression" by KrmaL</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~20.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Coffee081</strong> - <a class='mes lipad' href='https://youtu.be/zjCbL_e5-xw'>https://youtu.be/zjCbL_e5-xw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/nKjfuiX4Ldw'>https://youtu.be/nKjfuiX4Ldw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/VmvSvyp9cjQ'>https://youtu.be/VmvSvyp9cjQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/7zdcoupnfqU'>https://youtu.be/7zdcoupnfqU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/mjvQOzQSft4'>https://youtu.be/mjvQOzQSft4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/Nrh9TUjHEaw'>https://youtu.be/Nrh9TUjHEaw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/kUcMlYh7nwA'>https://youtu.be/kUcMlYh7nwA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bejako</strong> - <a class='mes lipad' href='https://youtu.be/al3PF3Sti4s'>https://youtu.be/al3PF3Sti4s</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Noxop - <a class='mes lipad' href='https://youtu.be/5-ADQPq3Kno'>https://youtu.be/5-ADQPq3Kno</a>
+        				<span>   (144hz)</span></p></li>
+        			<li><p class='mes lipad'>Juniorr - <a class='mes lipad' href='https://youtu.be/Le_JIumpJGM'>https://youtu.be/Le_JIumpJGM</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Surpl3x</strong> - <a class='mes lipad' href='https://youtu.be/fl_lhGI728k'>https://youtu.be/fl_lhGI728k</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Subperfect</strong> - <a class='mes lipad' href='https://youtu.be/LuIH429_0Ts'>https://youtu.be/LuIH429_0Ts</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>jjs5821</strong> - <a class='mes lipad' href='https://youtu.be/8ETtl4H3aZM'>https://youtu.be/8ETtl4H3aZM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Biprex</strong> - <a class='mes lipad' href='https://youtu.be/oZ6z9i5fQis'>https://youtu.be/oZ6z9i5fQis</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Cedric22</strong> - <a class='mes lipad' href='https://youtu.be/gDSQKKiF7G8'>https://youtu.be/gDSQKKiF7G8</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Xyghost - <a class='mes lipad' href='https://youtu.be/NyHdoYTTPqg'>https://youtu.be/NyHdoYTTPqg</a>
+        				<span>   (120hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			77. "Under Lavaland" by N R G & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~20.0 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/XO3mpTuDYIc'>https://youtu.be/XO3mpTuDYIc</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			78. "Azure Fiesta" by Dorami & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~19.4 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>SwagMartin</strong> - <a class='mes lipad' href='https://youtu.be/-z714rHX00w'>https://youtu.be/-z714rHX00w</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Gherkin</strong> - <a class='mes lipad' href='https://youtu.be/sEEcbkDmARc'>https://youtu.be/sEEcbkDmARc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/IYa3fNjwNX0'>https://youtu.be/IYa3fNjwNX0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Rachel</strong> - <a class='mes lipad' href='https://youtu.be/BOvf0tGAyRc'>https://youtu.be/BOvf0tGAyRc</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			79. "Caution" by JustaGDplay3r & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~18.9 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/a072MYCquPs'>https://youtu.be/a072MYCquPs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/l4gzDP1s-_w'>https://youtu.be/l4gzDP1s-_w</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hydrus73</strong> - <a class='mes lipad' href='https://youtu.be/-wsvn-akDZY'>https://youtu.be/-wsvn-akDZY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/0mCKXDBF8OU'>https://youtu.be/0mCKXDBF8OU</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			80. "Kinetic Bypass" by Sminx</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~18.3 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/kGg9qLWe360'>https://youtu.be/kGg9qLWe360</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>InsaneParnisha</strong> - <a class='mes lipad' href='https://youtu.be/OSGwcBUlQLM'>https://youtu.be/OSGwcBUlQLM</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			81. "ATMarbl" by Pennutoh & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~17.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Mr.Budgie</strong> - <a class='mes lipad' href='https://youtu.be/7Uyc9CoPyLo'>https://youtu.be/7Uyc9CoPyLo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/nK--Yc3H5gg'>https://youtu.be/nK--Yc3H5gg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/Tqo_wIUmtvU'>https://youtu.be/Tqo_wIUmtvU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Chosbar</strong> - <a class='mes lipad' href='https://youtu.be/euZ1wLcW2Rs'>https://youtu.be/euZ1wLcW2Rs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coffee081</strong> - <a class='mes lipad' href='https://youtu.be/bjOE9OagddA'>https://youtu.be/bjOE9OagddA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/2BazcGrQQFI'>https://youtu.be/2BazcGrQQFI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Batle</strong> - <a class='mes lipad' href='https://youtu.be/-laLt-p9FEs'>https://youtu.be/-laLt-p9FEs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/LlW6IIzdECI'>https://youtu.be/LlW6IIzdECI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/rS5A9mjxvdY'>https://youtu.be/rS5A9mjxvdY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Liquid</strong> - <a class='mes lipad' href='https://youtu.be/jVrGXKZJsNo'>https://youtu.be/jVrGXKZJsNo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Thonyell</strong> - <a class='mes lipad' href='https://youtu.be/r6Pt-B6A55U'>https://youtu.be/r6Pt-B6A55U</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>LegendDinamix</strong> - <a class='mes lipad' href='https://youtu.be/Af27F4MedeI'>https://youtu.be/Af27F4MedeI</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			82. "A Bizarre Phantasm" by TeamN2</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~17.2 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Coffee081</strong> - <a class='mes lipad' href='https://youtu.be/_xcp5fRV7Cc'>https://youtu.be/_xcp5fRV7Cc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/mxGv47Cav00'>https://youtu.be/mxGv47Cav00</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Tilt - <a class='mes lipad' href='https://youtu.be/un8eJHbiR4E'>https://youtu.be/un8eJHbiR4E</a>
+        				<span>   (90hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>???(gmain)</strong> - <a class='mes lipad' href='https://youtu.be/nnbcz4FHMJE'>https://youtu.be/nnbcz4FHMJE</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Gw segun - <a class='mes lipad' href='https://youtu.be/uwXMXMUZIRU'>https://youtu.be/uwXMXMUZIRU</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/-wvBpzbWnK8'>https://youtu.be/-wvBpzbWnK8</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			83. "Quaoar" by ViPriN & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~16.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Yogurt</strong> - <a class='mes lipad' href='https://youtu.be/jp58gFiGTX4'>https://youtu.be/jp58gFiGTX4</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			84. "Atmosphere" by VoidSquad</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~16.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/lApYdJVJxtY'>https://youtu.be/lApYdJVJxtY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Nell</strong> - <a class='mes lipad' href='https://youtu.be/91wlwFq0RpY'>https://youtu.be/91wlwFq0RpY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/oienTxM4V1I'>https://youtu.be/oienTxM4V1I</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			85. "Breakout" by Surv & nwolc</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~15.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/wqImSmRSzzw'>https://youtu.be/wqImSmRSzzw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Breakthrough</strong> - <a class='mes lipad' href='https://youtu.be/K9x6mbSLaIA'>https://youtu.be/K9x6mbSLaIA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/7E3IaipKxVU'>https://youtu.be/7E3IaipKxVU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/L1Q_wpAeHAI'>https://youtu.be/L1Q_wpAeHAI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Biprex</strong> - <a class='mes lipad' href='https://youtu.be/G_qjOJ3B6Ds'>https://youtu.be/G_qjOJ3B6Ds</a>
+        				</p></li>
+        			<li><p class='mes lipad'>DuskHilled - <a class='mes lipad' href='https://youtu.be/CfN9HL6-T2g'>https://youtu.be/CfN9HL6-T2g</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/mITsLe0xOnQ'>https://youtu.be/mITsLe0xOnQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SwagMartin</strong> - <a class='mes lipad' href='https://youtu.be/t_HaMlDTtKs'>https://youtu.be/t_HaMlDTtKs</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			86. "The Antimatter" by Bianox & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~15.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Gherkin</strong> - <a class='mes lipad' href='https://youtu.be/KFspqxnygCk'>https://youtu.be/KFspqxnygCk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/9H4312sFN_Y'>https://youtu.be/9H4312sFN_Y</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			87. "WaveBreaker" by Lemons & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~14.6 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/JmTEWtgqle0'>https://youtu.be/JmTEWtgqle0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/piTQLW-XabQ'>https://youtu.be/piTQLW-XabQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Zeth</strong> - <a class='mes lipad' href='https://youtu.be/zDeH0iplrwQ'>https://youtu.be/zDeH0iplrwQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bribo</strong> - <a class='mes lipad' href='https://youtu.be/co_jLZcpdYg'>https://youtu.be/co_jLZcpdYg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/is6CNvO4u3I'>https://youtu.be/is6CNvO4u3I</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/lLcHjng1OF8'>https://youtu.be/lLcHjng1OF8</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			88. "moment" by Arekushi14</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~14.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'>AstraloFY - <a class='mes lipad' href='https://youtu.be/XF0UyPW3hWs'>https://youtu.be/XF0UyPW3hWs</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/lw2JE6y3OXA'>https://youtu.be/lw2JE6y3OXA</a>
+        				</p></li>
+        			<li><p class='mes lipad'>FinJac14 - <a class='mes lipad' href='https://youtu.be/koMcPNlF02M'>https://youtu.be/koMcPNlF02M</a>
+        				<span>   (120hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			89. "Want Me" by para</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~13.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/sFJE4BtVONE'>https://youtu.be/sFJE4BtVONE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/wV6FOS6X7xg'>https://youtu.be/wV6FOS6X7xg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/ZEeqsPE1-uo'>https://youtu.be/ZEeqsPE1-uo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>mephiles175</strong> - <a class='mes lipad' href='https://youtu.be/GeNzVTsZ63o'>https://youtu.be/GeNzVTsZ63o</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			90. "Freedom19" by GrenadeofTacos & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~13.2 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>WhiteEmerald</strong> - <a class='mes lipad' href='https://youtu.be/_UHjDIgCqsg'>https://youtu.be/_UHjDIgCqsg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Yogurt</strong> - <a class='mes lipad' href='https://youtu.be/Xrqbkbg_kSQ'>https://youtu.be/Xrqbkbg_kSQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'>TheFerRP2 - <a class='mes lipad' href='https://youtu.be/ZYwgP9dc8x4'>https://youtu.be/ZYwgP9dc8x4</a>
+        				<span>   (120hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			91. "Fusion Z" by PlebKingdom</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~12.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>MAUBILE</strong> - <a class='mes lipad' href='https://youtu.be/EzQRlGeqvVY'>https://youtu.be/EzQRlGeqvVY</a>
+        				</p></li>
+        			<li><p class='mes lipad'>unnsmd - <a class='mes lipad' href='https://youtu.be/t8H6pxsgjBg'>https://youtu.be/t8H6pxsgjBg</a>
+        				<span>   (120hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			92. "Idols" by Zafkiel7 & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~12.3 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/qRs8FrcJBx0'>https://youtu.be/qRs8FrcJBx0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SwagMartin</strong> - <a class='mes lipad' href='https://youtu.be/iK43fVDngBQ'>https://youtu.be/iK43fVDngBQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Sadius</strong> - <a class='mes lipad' href='https://youtu.be/SnS50rOhZcg'>https://youtu.be/SnS50rOhZcg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Zacky333</strong> - <a class='mes lipad' href='https://youtu.be/VrXbdAUa10U'>https://youtu.be/VrXbdAUa10U</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bejako</strong> - <a class='mes lipad' href='https://youtu.be/oIX3YEYR_tQ'>https://youtu.be/oIX3YEYR_tQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/42BXT5GDbIo'>https://youtu.be/42BXT5GDbIo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>MaksTeR</strong> - <a class='mes lipad' href='https://youtu.be/nNDu2DG4nHE'>https://youtu.be/nNDu2DG4nHE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BadoZ</strong> - <a class='mes lipad' href='https://youtu.be/vOiROmKSi7g'>https://youtu.be/vOiROmKSi7g</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coheton</strong> - <a class='mes lipad' href='https://youtu.be/HKYVH4JS1lA'>https://youtu.be/HKYVH4JS1lA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/rXwnA_8hYdM'>https://youtu.be/rXwnA_8hYdM</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			93. "Glacial Torrent" by Nelll & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~11.8 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>MiniWheatDuo</strong> - <a class='mes lipad' href='https://youtu.be/OikzOPhPK2s'>https://youtu.be/OikzOPhPK2s</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/i97JV9F9R-Q'>https://youtu.be/i97JV9F9R-Q</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='https://youtu.be/prAJmd0M2h8'>https://youtu.be/prAJmd0M2h8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>GochuJang</strong> - <a class='mes lipad' href='https://youtu.be/cPlzYz9ef6c'>https://youtu.be/cPlzYz9ef6c</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Batle</strong> - <a class='mes lipad' href='https://youtu.be/LVQ3r8m0daA'>https://youtu.be/LVQ3r8m0daA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/yn7SYu_fyoQ'>https://youtu.be/yn7SYu_fyoQ</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			94. "Inflective" by Mojitoz & more</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~11.4 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>P8geons</strong> - <a class='mes lipad' href='https://youtu.be/_ZCmAR-s9OE'>https://youtu.be/_ZCmAR-s9OE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hydrus73</strong> - <a class='mes lipad' href='https://youtu.be/un0r8_g_gJ4'>https://youtu.be/un0r8_g_gJ4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>ABOSS47</strong> - <a class='mes lipad' href='https://youtu.be/U7Ps_KXHFE8'>https://youtu.be/U7Ps_KXHFE8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flamingo</strong> - <a class='mes lipad' href='https://youtu.be/BTO7H5J8E3g'>https://youtu.be/BTO7H5J8E3g</a>
+        				</p></li>
+        			<li><p class='mes lipad'>El Ameno - <a class='mes lipad' href='https://youtu.be/xQ4a6yPnJNk'>https://youtu.be/xQ4a6yPnJNk</a>
+        				<span>   (120hz)</span></p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			95. "OOPZ" by Insidee</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~11.0 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/Be8u9ybLowY'>https://youtu.be/Be8u9ybLowY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Nontypical</strong> - <a class='mes lipad' href='https://youtu.be/zzN1xO2s5gw'>https://youtu.be/zzN1xO2s5gw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DitzyDoo4</strong> - <a class='mes lipad' href='https://youtu.be/_erloLnZzOY'>https://youtu.be/_erloLnZzOY</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			96. "Plasma Pulse III" by xSmoKes & Giron</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~10.5 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/6O3A0-5g8Kg'>https://youtu.be/6O3A0-5g8Kg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Stilluetto</strong> - <a class='mes lipad' href='https://youtu.be/8FNJ3LtzN2s'>https://youtu.be/8FNJ3LtzN2s</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/02VVbgqxXGU'>https://youtu.be/02VVbgqxXGU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Dagon</strong> - <a class='mes lipad' href='https://youtu.be/0a5wshkAq18'>https://youtu.be/0a5wshkAq18</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coffee081</strong> - <a class='mes lipad' href='https://youtu.be/NcsQ2crIIuc'>https://youtu.be/NcsQ2crIIuc</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>RandomIdiot</strong> - <a class='mes lipad' href='https://youtu.be/-Pj4X6DAYjY'>https://youtu.be/-Pj4X6DAYjY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Teamless</strong> - <a class='mes lipad' href='https://youtu.be/pNiUO3RiR_w'>https://youtu.be/pNiUO3RiR_w</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>bread1023</strong> - <a class='mes lipad' href='https://youtu.be/2P97vY-QuOo'>https://youtu.be/2P97vY-QuOo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mr.Budgie</strong> - <a class='mes lipad' href='https://youtu.be/ZOwK7uXhsxo'>https://youtu.be/ZOwK7uXhsxo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/bh8DiEF0jKQ'>https://youtu.be/bh8DiEF0jKQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coopersuper</strong> - <a class='mes lipad' href='https://youtu.be/GNeOdgmgvss'>https://youtu.be/GNeOdgmgvss</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bigthunder556</strong> - <a class='mes lipad' href='youtu.be/WG8McGQ7rAs'>youtu.be/WG8McGQ7rAs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>HugeDoge</strong> - <a class='mes lipad' href='https://youtu.be/vfPihODqyyk'>https://youtu.be/vfPihODqyyk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>???(gmain)</strong> - <a class='mes lipad' href='https://youtu.be/BEKwn0fmmqE'>https://youtu.be/BEKwn0fmmqE</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SoulSilverJr.</strong> - <a class='mes lipad' href='https://youtu.be/Tq4AgGB1O5o'>https://youtu.be/Tq4AgGB1O5o</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Surpl3x</strong> - <a class='mes lipad' href='https://youtu.be/4_0PR5844Xs'>https://youtu.be/4_0PR5844Xs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>ZizOhNo</strong> - <a class='mes lipad' href='https://youtu.be/KNmuGlAXT1Q'>https://youtu.be/KNmuGlAXT1Q</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Gherkin</strong> - <a class='mes lipad' href='https://youtu.be/a5hwp5MgPJo'>https://youtu.be/a5hwp5MgPJo</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Goandjump - <a class='mes lipad' href='https://youtu.be/GahusapFDWc'>https://youtu.be/GahusapFDWc</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Thonyell</strong> - <a class='mes lipad' href='https://youtu.be/h-5oysDKyz0'>https://youtu.be/h-5oysDKyz0</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/EN-OeRjwEMs'>https://youtu.be/EN-OeRjwEMs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>GeoMiX</strong> - <a class='mes lipad' href='https://youtu.be/V63nBZEdh8I'>https://youtu.be/V63nBZEdh8I</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/C2ZmeFynJU8'>https://youtu.be/C2ZmeFynJU8</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Biprex</strong> - <a class='mes lipad' href='https://youtu.be/rly4F4Wtsy0'>https://youtu.be/rly4F4Wtsy0</a>
+        				</p></li>
+        			<li><p class='mes lipad'>El Ameno - <a class='mes lipad' href='https://youtu.be/dDVG89fCFgs'>https://youtu.be/dDVG89fCFgs</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>TheRunawayGang</strong> - <a class='mes lipad' href='https://youtu.be/miEaCFto9fs'>https://youtu.be/miEaCFto9fs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Luk231</strong> - <a class='mes lipad' href='https://youtu.be/ZfQiFCUskkY'>https://youtu.be/ZfQiFCUskkY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/ytGI5bpmMMU'>https://youtu.be/ytGI5bpmMMU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Demolishers21</strong> - <a class='mes lipad' href='https://youtu.be/P2kxGzFAv4M'>https://youtu.be/P2kxGzFAv4M</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Kucouski - <a class='mes lipad' href='https://youtu.be/Cv08eIqn_-s'>https://youtu.be/Cv08eIqn_-s</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Ibis</strong> - <a class='mes lipad' href='https://youtu.be/PZvk-3zm4Dw'>https://youtu.be/PZvk-3zm4Dw</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Korrode</strong> - <a class='mes lipad' href='https://youtu.be/0pXcB5lOVTM'>https://youtu.be/0pXcB5lOVTM</a>
+        				</p></li>
+        			<li><p class='mes lipad'>Juniorr - <a class='mes lipad' href='https://youtu.be/D7_RHRe-ato'>https://youtu.be/D7_RHRe-ato</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>LegendDinamix</strong> - <a class='mes lipad' href='https://youtu.be/CTFh9mhmD1w'>https://youtu.be/CTFh9mhmD1w</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			97. "Digital Disarray" by GironDavid, Licen, & Vlacc</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~10.1 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>Trueskills2</strong> - <a class='mes lipad' href='https://youtu.be/-skaOh__7MY'>https://youtu.be/-skaOh__7MY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/9QNSutIEU7Q'>https://youtu.be/9QNSutIEU7Q</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/r6xxk66kekk'>https://youtu.be/r6xxk66kekk</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			98. "Aurora" by TheKris</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~9.7 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>SoulControl</strong> - <a class='mes lipad' href='https://youtu.be/whEqUnyW2UQ'>https://youtu.be/whEqUnyW2UQ</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/eVygYwvofmg'>https://youtu.be/eVygYwvofmg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/qIvQO7dTfb4'>https://youtu.be/qIvQO7dTfb4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Luqualizer</strong> - <a class='mes lipad' href='https://youtu.be/NJT5gMTZmK4'>https://youtu.be/NJT5gMTZmK4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Nintenfox</strong> - <a class='mes lipad' href='https://youtu.be/ZFkwrUTvCUA'>https://youtu.be/ZFkwrUTvCUA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Mike139115</strong> - <a class='mes lipad' href='https://youtu.be/ypft3606TMY'>https://youtu.be/ypft3606TMY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>AsrielXL</strong> - <a class='mes lipad' href='https://youtu.be/COvg8u9ps9A'>https://youtu.be/COvg8u9ps9A</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>a nt</strong> - <a class='mes lipad' href='https://youtu.be/z9vri-e7msg'>https://youtu.be/z9vri-e7msg</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SoulSilverJr.</strong> - <a class='mes lipad' href='https://youtu.be/DpEDye38fAk'>https://youtu.be/DpEDye38fAk</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>ExoLiter</strong> - <a class='mes lipad' href='https://youtu.be/L1r8VZ5kE3w'>https://youtu.be/L1r8VZ5kE3w</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Ben TheCool</strong> - <a class='mes lipad' href='https://youtu.be/9MvYQ31qrgM'>https://youtu.be/9MvYQ31qrgM</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>MaksTeR</strong> - <a class='mes lipad' href='https://youtu.be/haF6re3UKDU'>https://youtu.be/haF6re3UKDU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>InsaneParnisha</strong> - <a class='mes lipad' href='https://youtu.be/MGv4EDekzCI'>https://youtu.be/MGv4EDekzCI</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/OkJ23OJHBfY'>https://youtu.be/OkJ23OJHBfY</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Demolishers21</strong> - <a class='mes lipad' href='https://youtu.be/61vs12qWEhA'>https://youtu.be/61vs12qWEhA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>SwagMartin</strong> - <a class='mes lipad' href='https://youtu.be/4yQwuvuoGQs'>https://youtu.be/4yQwuvuoGQs</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Bribo</strong> - <a class='mes lipad' href='https://youtu.be/cF-K7kArRos'>https://youtu.be/cF-K7kArRos</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Flavyola64</strong> - <a class='mes lipad' href='https://youtu.be/OBSINvHjBrU'>https://youtu.be/OBSINvHjBrU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Gherkin</strong> - <a class='mes lipad' href='https://youtu.be/Z4N4KRHBZ_M'>https://youtu.be/Z4N4KRHBZ_M</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>LegendDinamix</strong> - <a class='mes lipad' href='https://youtu.be/mhy3llgv9Ag'>https://youtu.be/mhy3llgv9Ag</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>DreamTide</strong> - <a class='mes lipad' href='https://youtu.be/Yc996LB0b54'>https://youtu.be/Yc996LB0b54</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			99. "Dole Damos" by Jeyzor</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~9.3 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'><strong>venfy</strong> - <a class='mes lipad' href='https://youtu.be/O9Www6ATToo'>https://youtu.be/O9Www6ATToo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Hilo</strong> - <a class='mes lipad' href='https://youtu.be/UQZsWsrpzDo'>https://youtu.be/UQZsWsrpzDo</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Storm957</strong> - <a class='mes lipad' href='https://youtu.be/wH-EcsX0LzU'>https://youtu.be/wH-EcsX0LzU</a>
+        				</p></li>
+        		</ul>
+        	</div>
+        </div>
+        <br>
+
+        <br>
+        <div class="holdback">
+        	<button type="button" class="collapsible">
+        		<span style="font-weight:bold; font-size: 18px;">
+        			100. "doradura" by IvashkaUA</span>
+        			<span style="font-style: oblique; font-size: 14px;">    (~8.9 points)</span>
+        			<svg id="quan" style="display: block;  transform: rotate(0deg);">
+        				<path d="M5.41 7.59L4 9l8 8 8-8-1.41-1.41L12 14.17"></path>
+        			</svg>
+        		</button>
+        	<div class="content">
+        		<ul class="statlist">
+        			<li><p class='mes lipad'>Dashy - <a class='mes lipad' href='https://youtu.be/zSGqM1eG8_8'>https://youtu.be/zSGqM1eG8_8</a>
+        				<span>   (120hz)</span></p></li>
+        			<li><p class='mes lipad'><strong>Gherkin</strong> - <a class='mes lipad' href='https://youtu.be/USZJCUj_LIA'>https://youtu.be/USZJCUj_LIA</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>BiPolarBearr</strong> - <a class='mes lipad' href='https://youtu.be/5Ltj0DjTicU'>https://youtu.be/5Ltj0DjTicU</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>Coheton</strong> - <a class='mes lipad' href='https://youtu.be/6t1-LNcP0D4'>https://youtu.be/6t1-LNcP0D4</a>
+        				</p></li>
+        			<li><p class='mes lipad'><strong>valentin130</strong> - <a class='mes lipad' href='https://youtu.be/vomlzb1lKLE'>https://youtu.be/vomlzb1lKLE</a>
+        				</p></li>
+        			<li><p class='mes lipad'>BayronGMD - <a class='mes lipad' href='https://youtu.be/ucVg0huH1cw'>https://youtu.be/ucVg0huH1cw</a>
+        				<span>   (90hz)</span></p></li>
+            </ul>
+          </div>
+        </div>
+        <br>
+      </div>
+      
+    <div>
+      <ul class="nav" id="narv">
+        <li class="r ranc"><a href="https://docs.google.com/forms/d/e/1FAIpQLScT8aGlWyRRnn34P9gpvyrECCl-Jn2zaiRO5xsUWzD1qS_98A/viewform">Submit</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/updatelog">Update Log</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/levelpacks">Level Packs</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/topplayers">Top Players</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/bottom50">Bottom 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/top50">Top 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/about">About</a></li>
+        <li class="titlebox ranc">GD Mobile Lists</li>
+      </ul>
+    </div>
+
+  <script>
+  // thx w3schools
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+  }
+  </script>
+
+  <script>
+  // Source credit: http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+      var gear = document.getElementById("item");
+      window.addEventListener("scroll", function() {
+        gear.style.transform = "translateY("+window.pageYOffset/-1.5+"px)";
+      });
+    </script>
+
+    <script>
+        var hol = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < hol.length; i++) {
+        hol[i].addEventListener("click", function() {
+          var gar = this.lastElementChild;
+          if (gar.style.transform === "rotate(180deg)") {
+            gar.style.transform = "rotate(0deg)";
+          } else {
+            gar.style.transform = "rotate(180deg)";
+          }
+        });}
+      </script>
+
+</body>
+</html>

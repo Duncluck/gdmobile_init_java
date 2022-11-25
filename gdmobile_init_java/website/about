@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta title="Main List - GD Mobile">
+    <title>Main List - GD Mobile</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="http://ly.lygo.com/ly/tpSite/images/favicon.ico" rel="icon" type="image/ico" />
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C700&amp;display=swap" rel="stylesheet" nonce="">
+    <link href="https://fonts.googleapis.com/css?family=Source%20Code%20Pro%3Ai%2Cbi%2C700%2C400&amp;display=swap" rel="stylesheet" nonce="">
+  </head>
+  <body>
+    <div class="oka okay" alt id="item" style="transform: translateY(0px)"></div>
+    <div class="head">
+      <h2 class="headeryabout">Since Pointercrate is basically 240hz based, we're here to give you some mobile records instead!  Click on the pages above to view them.</h2>
+    </div>
+
+    <div class="levels">
+      <div style="background-color: rgba(110,183,216,1); height:10px; max-height:10px;"></div>
+      <!--<p class="para" style="font-size:100px;">h</p>-->
+      <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+            <p class="mes" style="padding-bottom: 12px;">Note: Please submit it through this form, and don't tag admins in the mobile server or dm one of the list staff.  If you do, we'll just tell you to submit it through the doc, it makes it a lot easier for us. Thanks!</p>
+            <p class="mes">That being said, if you have any questions about list rules of how it works, feel free to DM Mini at MiniWheatDuo#6960 via discord messages.</p>
+          </div>
+        </div>
+        <br>
+
+        <br>
+        <div class="infos">
+          <div style="padding: 8px">
+          <p class="mes" style="font-weight: bold;">List Editors</p>
+          <ul class="statlist">
+            <li><p class="mes lipad" style="font-weight: bold;">MiniWheatDuo</p></li>
+            <li><p class="mes lipad">Batle</p></li>
+            <li><p class="mes lipad">Coopersuper</p></li>
+            <li><p class="mes lipad">Bigthunder556</p></li>
+            <li><p class="mes lipad">Mr.Budgie</p></li>
+            <li><p class="mes lipad">Mike139115</p></li>
+            <li><p class="mes lipad">Hilo</p></li>
+            <li><p class="mes lipad">DreamTide</p></li>
+            <li><p class="mes lipad">Nell</p></li>
+            <li><p class="mes lipad">venfy</p></li>
+            <li><p class="mes lipad">SubZeroV</p></li>
+            <li><p class="mes lipad" style="margin-bottom: 0;">Rusty</p></li>
+          </ul>
+        </div>
+      </div>
+      <br>
+
+      <br>
+      <div class="infos">
+        <div style="padding: 8px">
+        <p class="mes">Submit records in the link below (please don't send hacked records, they won't get through and it'll just waste our time):</p>
+        <p class="mes" style="background-clip: padding-box; background-color: rgba(0,0,0,0.059); border: 0.75pt solid rgba(255,255,255,0.122);  margin-bottom: 0; margin-top: 0; padding: 4pt; font-family: 'Source Code Pro'; text-decoration: underline; font-weight: bold;">
+          <a style="color: inherit;" href="https://docs.google.com/forms/d/e/1FAIpQLScT8aGlWyRRnn34P9gpvyrECCl-Jn2zaiRO5xsUWzD1qS_98A/viewform">https://docs.google.com/forms/d/e/1FAIpQLScT8aGlWyRRnn34P9gpvyrECCl-Jn2zaiRO5xsUWzD1qS_98A/viewform</a>
+        </p>
+      </div>
+    </div>
+
+    <br>
+    <div class="infos">
+      <div style="background-color: rgba(0,0,0,0.150000006); height: 3px; margin-top: 8px; max-width: 1280px;"></div>
+    </div>
+    <br>
+
+    <div class="infos">
+      <div style="padding: 8px">
+        <p class="mes" style="padding-bottom: 12px;">I would like to give a <strong>major</strong> thanks to the list mods, especially Retina and Paco, who both sadly left the team, for making this list possible.  Without Paco, I wouldn't have known where any of the demons go (because he beat literally all of them), and Retina really outdid himself with finding sources and organizing the list.  Thanks to them, a cool little idea in my mind became a reality, and I'm incredibly happy with the result.</p>
+        <p class="mes">-MiniWheatDuo</p>
+      </div>
+    </div>
+    <br>
+    </div>
+
+    <div>
+      <ul class="nav" id="narv">
+        <li class="r ranc"><a href="https://docs.google.com/forms/d/e/1FAIpQLScT8aGlWyRRnn34P9gpvyrECCl-Jn2zaiRO5xsUWzD1qS_98A/viewform">Submit</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/updatelog">Update Log</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/levelpacks">Level Packs</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/topplayers">Top Players</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/bottom50">Bottom 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/top50">Top 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/about">About</a></li>
+        <li class="titlebox ranc">GD Mobile Lists</li>
+      </ul>
+    </div>
+
+    <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+    }
+    </script>
+    <script>
+    // Source credit: http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+        var gear = document.getElementById("item");
+        window.addEventListener("scroll", function() {
+          gear.style.transform = "translateY("+window.pageYOffset/-1.5+"px)";
+        });
+    </script>
+  </body>
+</html>

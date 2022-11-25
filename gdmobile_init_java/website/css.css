@@ -1,0 +1,230 @@
+body {
+  background-color: rgba(110,183,216,1); /*ffdd0d*/
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  scroll-behavior: auto;
+}
+.para {
+  text-align: center;
+  background-color: transparent;
+}
+
+
+
+/* collapsible elements*/
+
+
+
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 16px;
+  width:100%;
+  height:100%;
+  border-top:0px;
+  border-left:0px;
+  border-right:0px;
+  border-bottom: 1px solid #1f1f1f;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+}
+/* changes color if its open
+.active, .collapsible:hover {
+  background-color: #ddd;
+}*/
+.holdback {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 2px;
+  border-bottom-color: #000000;
+  width:76%;
+  background-color: transparent;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  overflow-x:visible;
+  font-family: Roboto;
+}
+.holdback span {
+  font-family: Roboto;
+  color: rgba(33,33,33,1);
+}
+.holdback svg {
+  width: 24px;
+  height: 24px;
+  viewBox: 0px 0px 24px 24px;
+  focusable: false;
+  float: right;
+  color: rgba(0,0,0,.54);
+  fill: rgba(0,0,0,.54);
+}
+.holdback svg onclick {
+  transform: rotate(90deg);
+}
+.content {
+  padding: 8px;
+  display: none;
+  overflow: hidden;
+  background-color: #f5f5f5;
+}
+.content a {
+  text-decoration: underline;
+  color: #666666;
+}
+.content span {
+  font-style: oblique;
+  font-size: 13px;
+  color: #666666;
+}
+
+
+
+/*nav elements*/
+
+
+
+.nav{
+  list-style-type: none;
+  width:100%;
+  height:61px;
+  background-color: rgba(79,71,78,1);   /*abdcba*/
+  font-size:18px;
+  padding:0;
+  overflow:hidden;
+  margin:0px;
+  position: fixed;
+  top: 0;
+}
+.r:hover {
+  background-color: #abcdef;
+}
+.r {
+  float:right;
+  list-style-type: none;
+  text-decoration: none;
+}
+.r a{
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+  text-decoration:none;
+  background-color: transparent;
+}
+.ranc {
+  margin:0;
+  float:right;
+  padding: 20px;
+  text-decoration: none;
+  font-family: monospace;
+}
+.titlebox {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+}
+
+
+
+/* header elements*/
+
+
+
+.head {
+  top: 0px;
+  height:350px;
+  padding-left:10%;
+  padding-right:10%;
+  width:80%;
+  pointer-events: none;
+  position:absolute;
+
+}
+.headery {
+  text-align: center;
+  vertical-align: middle;
+  color:white;
+  background-color: transparent;
+  font-family: Roboto;
+  font-weight: lighter;
+  font-size: 90px;
+  padding-top: 6%;
+}
+.headeryabout {
+  text-align: center;
+  vertical-align: middle;
+  color:white;
+  background-color: transparent;
+  font-family: Roboto;
+  font-weight: lighter;
+  font-size: 50px;
+  padding-top: 6%;
+}
+.oka {
+  display: table-cell;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+  width:100%;
+  height:100%;
+  background-size: cover;
+}
+.okay {
+  background-image: url(https://ssl.gstatic.com/atari/images/level-header.png);
+  background-color: rgba(110,183,216,1);
+  background-position-y: center;
+  top:-25%;
+}
+
+
+/* body elements*/
+
+
+
+.levels {
+  position:relative;
+  background-color: rgba(225,228,232,1);
+  top: 20rem;
+  display:block;
+  width: 100%;
+  height: auto;
+}
+.infos {
+  display:block;
+  position: relative;
+  background-color: rgba(250,250,250,1);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  width: 76%;
+  align-self: center;
+  margin: 0% 12% 0% 12%;
+}
+.mes {
+  font-family: Roboto;
+  color: rgba(33,33,33,1);
+  font-size: 13pt;
+  line-height: 1.55;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lipad {
+  padding: 0px;
+  margin: 6px 0px 6px 0px;
+}
+.statlist {
+  list-style-type: square;
+  background-color: transparent;
+  margin: 0;
+  padding-left: 15pt;"
+}
+.infos span {
+  font-family: Roboto;
+  font-size: 24px;
+}
+.statlist span {
+  font-size: 10pt;
+}

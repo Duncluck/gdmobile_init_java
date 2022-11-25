@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta title="Main List - GD Mobile">
+    <title>Main List - GD Mobile</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="http://ly.lygo.com/ly/tpSite/images/favicon.ico" rel="icon" type="image/ico" />
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C400%2C700&amp;display=swap" rel="stylesheet" nonce="">
+    <link href="https://fonts.googleapis.com/css?family=Source%20Code%20Pro%3Ai%2Cbi%2C700%2C400&amp;display=swap" rel="stylesheet" nonce="">
+  </head>
+  <body>
+    <div class="oka okay" alt id="item" style="transform: translateY(0px)"></div>
+    <div class="head">
+      <h2 class="headery">Level Packs</h2>
+    </div>
+
+    <div class="levels">
+      <div style="background-color: rgba(110,183,216,1); height:10px; max-height:10px;"></div>
+
+        <br>
+
+        <div class="infos" style="font-style: oblique;">
+          <div style="padding: 8px">
+          <p class="mes" style="font-weight: bold;">How it Works:</p>
+          <ul class="statlist">
+            <li><p class="mes lipad">Level packs are finally here!  If you've beaten all three levels in a pack, please submit them at the same time through the form in one response.</p></li>
+            <li><p class="mes lipad">These don't give points, they're more like a hall of fame of sorts.</p></li>
+            <li><p class="mes lipad">Yes, there's a lot of levels that aren't on the list anymore!  This is meant to be more accessible and fun for most players, so you can have something to shoot for besides whatever impossible level is at #100 on the list lol</p></li>
+            <li><p class="mes lipad" style="color: grey">* (asterisk) indicates level no longer on list.</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">The Trilogy: </span><span>Bloodbath, Aftermath, Cataclysm (new)*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(really hard)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad">Bigthunder556</p></li>
+            <li><p class="mes lipad">Coopersuper</p></li>
+            <li><p class="mes lipad">Chubs Dubs</p></li>
+            <li><p class="mes lipad">Surpl3x</p></li>
+            <li><p class="mes lipad">idiot 4 (120hz)</p></li>
+            <li><p class="mes lipad">BiPolarBearr</p></li>
+            <li><p class="mes lipad">Noxop (144hz)</p></li>
+            <li><p class="mes lipad">Biprex</p></li>
+            <li><p class="mes lipad">Juniorr (90hz, 120hz)</p></li>
+            <li><p class="mes lipad" style="margin-bottom: 0;">zyphyr77 (144hz)</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Long levels: </span><span>Idols, Glacial Torrent, Fusion Z</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(pretty hard)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad" style="margin-bottom: 0;">Nobody yet!</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Ship based levels: </span><span>Cataclysm (new)*, Daydream*, Allegiance*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(pretty hard)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad">DreamTide</p></li>
+            <li><p class="mes lipad">Flavyola64</p></li>
+            <li><p class="mes lipad" style="margin-bottom: 0;">Cedric22</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Dual heavy levels: </span><span>Aurora*, Novalis, Omorfia*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(pretty hard)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad" style="margin-bottom: 0;">Bribo</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Memory demons: </span><span>Marathon*, Triple Six*, Maybe Possibly Thing*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(pretty hard)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad" style="margin-bottom: 0;">Nobody yet!</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Wave carried levels: </span><span>Inflective, reverence*, Uprise*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(hard)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad" style="margin-bottom: 0;">Nobody yet!</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Mobile mandatory levels: </span><span>Niflheim*, Artificial Dream*, Incipient*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(medium)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad">Hilo</p></li>
+            <li><p class="mes lipad">Mr.Budgie</p></li>
+            <li><p class="mes lipad">AsrielXL</p></li>
+            <li><p class="mes lipad">Coopersuper</p></li>
+            <li><p class="mes lipad">Batle</p></li>
+            <li><p class="mes lipad">Bigthunder556</p></li>
+            <li><p class="mes lipad">Nell</p></li>
+            <li><p class="mes lipad">Coffee081</p></li>
+            <li><p class="mes lipad">GeoMiX</p></li>
+            <li><p class="mes lipad">Liquid</p></li>
+            <li><p class="mes lipad">Flavyola64</p></li>
+            <li><p class="mes lipad">MaksTeR</p></li>
+            <li><p class="mes lipad">Ashimaru</p></li>
+            <li><p class="mes lipad">Storm957</p></li>
+            <li><p class="mes lipad">MiniWheatDuo</p></li>
+            <li><p class="mes lipad">venfy</p></li>
+            <li><p class="mes lipad">Thonyell</p></li>
+            <li><p class="mes lipad">ExoLiter</p></li>
+            <li><p class="mes lipad">Gherkin</p></li>
+            <li><p class="mes lipad">DreamTide</p></li>
+            <li><p class="mes lipad">mephiles175</p></li>
+            <li><p class="mes lipad">electric</p></li>
+            <li><p class="mes lipad" style="margin-bottom: 0;">aswer</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">The original three: </span><span>The Ultimate Phase*, cataclysm (old)*, ICE Carbon Diablo X*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(medium)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad">Retina</p></li>
+            <li><p class="mes lipad">HugeDoge</p></li>
+            <li><p class="mes lipad">Random Idiot</p></li>
+            <li><p class="mes lipad">Coopersuper</p></li>
+            <li><p class="mes lipad">BiPolarBearr</p></li>
+            <li><p class="mes lipad" style="margin-bottom: 0;">Gherkin</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+          <span class="mes" style="font-weight: bold;">Short levels: </span><span>reverence*, phantasmagoria*, GLISTEN*</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(easy)</span>
+          <ul class="statlist">
+            <li><p class="mes lipad" style="margin-bottom: 0;">MiniWheatDuo</p></li>
+          </ul>
+          </div>
+        </div>
+
+        <br>
+
+        <div class="infos">
+          <div style="padding: 8px">
+            <span class="mes" style="font-weight: bold;">Funny pack: </span><span>ElectroLux****, Insaction****, Zenith**** (all full detail)</span><span style="font-style: oblique; font-size: 14px; padding-left: 1rem;">(impossible)</span>
+            <p style="color: rgba(250,250,250,1);">L</p>
+            <img style="width: 100%;" src="https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png">
+          </div>
+        </div>
+
+        <div style="width: 100%; height: 1rem;"></div>
+
+    </div>
+
+    <div>
+      <ul class="nav" id="narv">
+        <li class="r ranc"><a href="https://docs.google.com/forms/d/e/1FAIpQLScT8aGlWyRRnn34P9gpvyrECCl-Jn2zaiRO5xsUWzD1qS_98A/viewform">Submit</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/updatelog">Update Log</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/levelpacks">Level Packs</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/topplayers">Top Players</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/bottom50">Bottom 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/top50">Top 50</a></li>
+        <li class="r ranc"><a href="file:///C:/Users/User/Documents/rootfolder/about">About</a></li>
+        <li class="titlebox ranc">GD Mobile Lists</li>
+      </ul>
+    </div>
+
+    <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+    }
+    </script>
+    <script>
+    // Source credit: http://thenewcode.com/279/Rotate-Elements-on-Scroll-with-JavaScript
+        var gear = document.getElementById("item");
+        window.addEventListener("scroll", function() {
+          gear.style.transform = "translateY("+window.pageYOffset/-1.5+"px)";
+        });
+    </script>
+  </body>
+</html>
